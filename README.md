@@ -636,13 +636,6 @@ This contract implements patterns and best practices from:
 - **OpenZeppelin** - Security libraries and standards
 - **Solmate** - Gas optimization patterns
 
-## 📞 Contact & Support
-
-- **Author**: Therock Ani
-- **GitHub**: [@rocknwa](https://github.com/rocknwa)
-- **Twitter**: [@ani_therock](https://twitter.com/ani_therock)
-- **Email**: anitherock44@gmail.com
-
 ## 🔗 Additional Resources
 
 - [Foundry Book](https://book.getfoundry.sh/)
